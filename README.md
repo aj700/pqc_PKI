@@ -318,7 +318,7 @@ docker run -it arunjr/pqc_studies:latest
 
 ## License
 
-This project is open source and licensed under the MIT License.
+This project is open source and licensed under the MIT License, a copy is available in the same repo.
 You are free to use it for commercial or private use.
 
 ## References
