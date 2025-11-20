@@ -11,7 +11,7 @@ The hybrid approach combines P-384 (ECDSA) with Dilithium3, providing security a
 
 ### About MLDSA (Dilithium)
 
-Dilithium, is now standardized as MLDSA (ModuLar Digital Signature Algorithm) in FIPS 204. It is NIST's chosen post-quantum digital signature algorithm at the moment. 
+Dilithium, is now standardized as MLDSA (Module-Lattice-Based Digital Signature Standard) in FIPS 204. It is NIST's chosen post-quantum digital signature algorithm at the moment. 
 (NIST will soon standardize the FALCON algorithm which has smaller Key and Signature sizes and better suited for embedded systems as well.)
 
 ### Why Hybrid Algorithms?
